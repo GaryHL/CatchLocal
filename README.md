@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# CatchLocal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Tabla de contenido
+1. [Informacion general](#general-info)
+2. [Tecnologias](#technologies)
+3. [Lenguajes](#language)
+4. [Instalacion](#installation)
+5. [Colaboracion](#collaboration)
 
-In the project directory, you can run:
+ 
+![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/logo.png)
 
-### `npm start`
+## Informacion general
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+***
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+CatchLocal nacio de la necesidad de impulsar la economia local del barrio Poblenou con el fin de integrar la poblacion local y extrangera de una manera dinamica a traves de la tecnología, dando mayor visibilidad a los locales comerciales pequeños y medianos por medio del marketing digital impulsado por ellos mismos, integrando las actividad culturales del barrio. Todo esto a traves de las historias detras de cada local. 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Tecnologias
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+***
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/logo.png)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Lista de tecnologias utilizadas dentro del proyecto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* [Figma](https://www.figma.com/file/5XYibjWlu2cfGiiXssRlsb/Untitled?node-id=13%3A302&t=7XlNkmM6VbYwZcX7-0) 
+* [GitHub](https://github.com/GaryHL/CatchLocal) 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Lenguaje
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+***
 
-## Learn More
+![Image text](https://github.com/ElviaBth/Drumkit-Jakye-Developers/blob/main/assets/images/readme/language.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+***
 
-### Code Splitting
+* [GitHub] (https://github.com/GaryHL/CatchLocal.git)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Collaboration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+***
 
-### Making a Progressive Web App
+CatchLocal con explorins
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
