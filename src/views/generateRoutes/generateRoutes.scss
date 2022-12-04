@@ -1,7 +1,16 @@
-body {
-   background-color: #2e2523;
+
+.principal{
+   display:flex;
+   align-items: center;
+   flex-direction: column;
+   gap:1rem;
 }
-h2 {
+.body{
+   background-color:#2e2523;
+   height:100vh;
+   width:100%;
+}
+.title {
    color: #9c8473;
    font-size: 900;
    text-align: center;
@@ -14,6 +23,7 @@ h2 {
    margin: 0 10%;
    height: 12vh;
    position:relative;
+   margin-bottom: 0.5rem;;
    p{
       margin: 0 1rem;
       max-width: 80%;;
@@ -49,10 +59,11 @@ h2 {
    color: #2e2523;
    margin: -3rem 1.5rem;
 }
-.uni {
+.Uni {
    display: flex;
    align-items: center;
    justify-content: center;
+   align-self: center;
 }
 .button1 {
    color: black !important;

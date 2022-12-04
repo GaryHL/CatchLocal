@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 
 function GenerateRoutes() {
    return (
-      <div className="App">
+      <div className="principal">
          <div className="body">
             <h2 className="title">¿Qué deseas incluír en tu salida?</h2>
             <div className="all">
@@ -21,47 +21,45 @@ function GenerateRoutes() {
                <input className="check" type="checkbox"></input>
             </div>
             <div className="all">
-               <div className="container">
-                  <h4>Ruta Compras</h4> <FaGifts className="icon"></FaGifts>
+               <div className="container_name_route">
+                  <h4>Ruta Compras</h4>
+                  <FaGifts className="icon"></FaGifts>
                </div>
-               <div className="container1">
-                  <p>
+               <p>
                      Las mejores tiendas de cafe de la zona las encuentras aquí
                   </p>
-                  <input className="check" type="checkbox"></input>
-               </div>
+               <input className="check" type="checkbox"></input>
             </div>
             <div className="all">
-               <div className="container">
+               <div className="container_name_route">
                   <h4>Ruta Gastronomica</h4>
                   <MdOutlineFoodBank className="icon"></MdOutlineFoodBank>
                </div>
-               <div className="container1">
-                  <p>
+               <p>
                      Las mejores tiendas de cafe de la zona las encuentras aquí
                   </p>
-                  <input className="check" type="checkbox"></input>
-               </div>
+               <input className="check" type="checkbox"></input>
             </div>
             <div className="all">
-               <div className="container">
+               <div className="container_name_route">
                   <h4>Ruta Cultural</h4>
                   <FaTheaterMasks className="icon"></FaTheaterMasks>
                </div>
-               <div className="container1">
-                  <p>
+               <p>
                      Las mejores tiendas de cafe de la zona las encuentras aquí
                   </p>
-                  <input className="check" type="checkbox"></input>
-               </div>
+               <input className="check" type="checkbox"></input>
             </div>
-         </div>
+
+
+            
          <div className="Uni">
             <Link to="/map">
                <Button color="primary" className="button1" variant="contained">
                   Generar Ruta
                </Button>
             </Link>
+         </div>
          </div>
       </div>
    );
