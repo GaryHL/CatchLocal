@@ -2,16 +2,16 @@
 
 
 ## Tabla de contenido
-1. [General Info](#Informacion general)
-2. [Technologies](#technologies)
-3. [Language](#language)
-4. [Installation](#installation)
-5. [Collaboration](#collaboration)
+1. [Informacion general](#general-info)
+2. [Tecnologias](#technologies)
+3. [Lenguajes](#language)
+4. [Instalacion](#installation)
+5. [Colaboracion](#collaboration)
 
  
-![Image text](https://github.com/ElviaBth/Drumkit-Jakye-Developers/blob/main/assets/images/readme/logo-drumkit.png)
+![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/logo.png)
 
-## General Info
+## Informacion general
 
 ***
 
@@ -19,7 +19,7 @@ CatchLocal nacio de la necesidad de impulsar la economia local del barrio Poblen
 
 
 
-## Technologies
+## Tecnologias
 
 ***
 
@@ -27,13 +27,12 @@ CatchLocal nacio de la necesidad de impulsar la economia local del barrio Poblen
 ![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/logo.png)
 
 
-A list of technologies used within the project:
+Lista de tecnologias utilizadas dentro del proyecto:
 
 * [Figma](https://www.figma.com/file/5XYibjWlu2cfGiiXssRlsb/Untitled?node-id=13%3A302&t=7XlNkmM6VbYwZcX7-0) 
-* [Trello](https://trello.com/b/uXh6SzoT/jakye-developers)
-* [GitHub](https://github.com/ElviaBth/Drumkit-Jakye-Developers) 
+* [GitHub](https://github.com/GaryHL/CatchLocal) 
 
-## Language
+## Lenguaje
 
 ***
 
@@ -43,12 +42,12 @@ A list of technologies used within the project:
 
 ***
 
-* [GitHub] (https://github.com/ElviaBth/Drumkit-Jakye-Developers)
+* [GitHub] (https://github.com/GaryHL/CatchLocal.git)
 
 
 ## Collaboration
 
 ***
 
-Jakye developers with Factoria F5
+CatchLocal con explorins
 
