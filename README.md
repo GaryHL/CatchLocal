@@ -54,9 +54,9 @@ Lista de tecnologias utilizadas dentro del proyecto:
 
 ***
 
-CatchLocal con explorins
-Veronica Megia
-Bruno Magrini
-Gary Lima
-Juliana Montaño
+* CatchLocal con explorins
+* Veronica Megia
+* Bruno Magrini
+* Gary Lima
+* Juliana Montaño
 
