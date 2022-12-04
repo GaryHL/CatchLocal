@@ -30,7 +30,8 @@ CatchLocal nacio de la necesidad de impulsar la economia local del barrio Poblen
 
 Lista de tecnologias utilizadas dentro del proyecto:
 
-* [Figma](https://www.figma.com/file/5XYibjWlu2cfGiiXssRlsb/Untitled?node-id=13%3A302&t=7XlNkmM6VbYwZcX7-0) 
+* [Figma](https://www.figma.com/file/5XYibjWlu2cfGiiXssRlsb/Untitled?node-id=13%3A302&t=7XlNkmM6VbYwZcX7-0)
+![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/Screenshot%202022-12-04%20at%205.05.22%20PM.png)
 * [GitHub](https://github.com/GaryHL/CatchLocal) 
 
 ## Lenguaje
