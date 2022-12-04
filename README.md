@@ -2,7 +2,7 @@
 
 
 ## Tabla de contenido
-1. [General Info](#general-info)
+1. [General Info](#Informacion general)
 2. [Technologies](#technologies)
 3. [Language](#language)
 4. [Installation](#installation)
