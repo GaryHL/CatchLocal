@@ -1,0 +1,214 @@
+.map {
+   display: flex;
+   flex-direction: column;
+   background-color: #2e2523;
+   width: 80%;
+   padding: 0 10%;
+   height: 87vh;
+   padding-top: 13vh;
+   gap: 2rem;
+   align-items: center;
+
+   h2 {
+      color: #9c8473;
+      font-size: 2rem;
+      font-weight: 800;
+      text-align: center;
+   }
+   .container_map {
+      background-color: #9c8473;
+      border-radius: 10px;
+      width: calc(100% - 2rem);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+
+      transition:0.3s;
+      @media (min-width: 700px) {
+         width: 400px;
+      }
+      img {
+         width: 90%;
+         height: 90%;
+         border-radius: 10px;
+         user-select: none;
+         transition:0.3s;
+      }
+      .container_first_pin {
+         position: absolute;
+         align-self: flex-end;
+         margin-bottom: 10%;
+         display: flex;
+         align-items: flex-start;
+         transition:0.3s;
+         &:hover {
+            transition:0.3s;
+            &::after {
+               content: "Tú";
+               position: absolute;
+               background-color: #2e2523;
+               color: white;
+               padding: 0.5vh 1.2vh;
+               margin-left:1.5rem;
+               border-radius: 0.2rem;
+               animation:openAfter 0.5s;
+               transition:0.3s;
+            }
+         }
+         .first_pin {
+            scale: 2;
+            color: #2e2523;
+            filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7));
+            &:hover {
+               scale: 2.1;
+               cursor: pointer;
+            }
+            &:active {
+               scale: 1.8;
+            }
+         }
+      }
+      .container_second_pin {
+         position: absolute;
+         align-self: flex-end;
+         margin-bottom: 120px;
+         margin-left: -160px;
+         display: flex;
+         align-items: flex-start;
+         transition:0.3s;
+         &:hover {
+            transition:0.3s;
+            &::after {
+               content: "Cafetería Simple";
+               position: absolute;
+               background-color: #2e2523;
+               color: white;
+               padding: 0.5vh 1.2vh;
+               margin-left:1.5rem;
+               border-radius: 0.2rem;
+               animation:openAfter 0.5s;
+               transition:0.3s;
+            }
+         }
+         .second_pin {
+            scale: 2;
+            color: #2e2523;
+            filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7));
+            &:hover {
+               scale: 2.1;
+               cursor: pointer;
+            }
+            &:active {
+               scale: 1.8;
+            }
+         }
+      }
+      .container_last_pin {
+        position: absolute;
+        align-self: flex-end;
+        margin-bottom: 250px;
+        margin-left: 130px;
+        display: flex;
+        align-items: flex-start;
+        transition:0.3s;
+        &:hover {
+           transition:0.3s;
+           &::after {
+              content: "Jardin Gandhi";
+              position: absolute;
+              background-color: #2e2523;
+              color: white;
+              padding: 0.5vh 1.2vh;
+              margin-left:1.5rem;
+              border-radius: 0.2rem;
+              animation:openAfter 0.5s;
+              transition:0.3s;
+           }
+        }
+        .last_pin {
+           scale: 2.5;
+           color: #2e2523;
+           filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7));
+           &:hover {
+              scale: 2.1;
+              cursor: pointer;
+           }
+           &:active {
+              scale: 1.8;
+           }
+        }
+     }
+   }
+   p {
+      color: white;
+      text-align: center;
+   }
+   button {
+      background-color: #be8340;
+      color: #2e2523;
+      font-weight: 800;
+      font-size: 1.3rem;
+      max-width: 150px;
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 0 0.5rem #2e2523;
+      border: none;
+      &:hover {
+         scale: 1.03;
+      }
+      &:active {
+         scale: 0.95;
+      }
+   }
+   button{
+    cursor:pointer;
+
+   }
+}
+
+.container_shop{
+    width: 80%;
+    padding:5vh 10%;
+    height:80vh;
+    background-color: #9c8473;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px 10px 0 0;
+    position: absolute;
+    box-shadow:0 0 20px #2e2523ab;
+    bottom:0;
+    margin-bottom: -130vh;
+    overflow-y: scroll;
+    gap:5vh;
+    svg{
+        position:absolute;
+        top:0;
+        right:0;
+        margin:1rem;
+        cursor: pointer;
+        scale:1.1;
+        &:active{
+            scale:1
+        }
+    }
+    h4{
+        font-weight: 800;
+        font-size:1.5rem;
+        color:#2e2523;
+    }
+}
+.open{
+    margin-bottom: 0vh;
+}
+
+
+@keyframes openAfter {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
