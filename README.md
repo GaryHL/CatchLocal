@@ -24,7 +24,8 @@ CatchLocal nacio de la necesidad de impulsar la economia local del barrio Poblen
 ***
 
 
-![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/logo.png)
+![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/Figma-logo.svg)
+![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/logo_github.jpeg)
 
 
 Lista de tecnologias utilizadas dentro del proyecto:
@@ -36,7 +37,7 @@ Lista de tecnologias utilizadas dentro del proyecto:
 
 ***
 
-![Image text](https://github.com/ElviaBth/Drumkit-Jakye-Developers/blob/main/assets/images/readme/language.png)
+![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/Screenshot%202022-12-04%20at%204.46.10%20PM.png)
 
 ## Installation
 
