@@ -6,7 +6,7 @@
 2. [Tecnologias](#technologies)
 3. [Lenguajes](#language)
 4. [Instalacion](#installation)
-5. [Colaboracion](#collaboration)
+5. [Colaboracion y colaboradores](#collaboration)
 
  
 ![Image text](https://github.com/GaryHL/CatchLocal/blob/main/src/assets/img/logo.png)
@@ -55,4 +55,8 @@ Lista de tecnologias utilizadas dentro del proyecto:
 ***
 
 CatchLocal con explorins
+Veronica Megia
+Bruno Magrini
+Gary Lima
+Juliana Montaño
 
